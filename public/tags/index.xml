@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Cristiioan</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Cristiioan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Mar 2022 19:11:04 +0200</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>default</title>
+      <link>/tags/default/</link>
+      <pubDate>Wed, 02 Mar 2022 19:11:04 +0200</pubDate>
+      
+      <guid>/tags/default/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>selfhosting</title>
+      <link>/tags/selfhosting/</link>
+      <pubDate>Wed, 02 Mar 2022 19:11:04 +0200</pubDate>
+      
+      <guid>/tags/selfhosting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

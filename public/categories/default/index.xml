@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>default on Cristiioan</title>
+    <link>/categories/default/</link>
+    <description>Recent content in default on Cristiioan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Mar 2022 19:11:04 +0200</lastBuildDate><atom:link href="/categories/default/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Is Selfhosting Worth It</title>
+      <link>/posts/2022-03-02-is-selfhosting-worth-it/</link>
+      <pubDate>Wed, 02 Mar 2022 19:11:04 +0200</pubDate>
+      
+      <guid>/posts/2022-03-02-is-selfhosting-worth-it/</guid>
+      <description>What is selfhosting? Selfhosting is making your own cloud at home. It is really great since you don&amp;rsquo;t have to pay for storage in google drive and other accounts just to access more functionality. And as a bonus you get all the customization possible, including custom domain.
+What about the pricing? The price for selfhosting can be as low as a few bucks a month, but it is going to increase based on the electricity bill and then specs you need.</description>
+    </item>
+    
+    <item>
+      <title>Why I have analytics on my website?</title>
+      <link>/posts/2022-03-01-is-privacy-a-right/</link>
+      <pubDate>Tue, 01 Mar 2022 06:18:23 +0200</pubDate>
+      
+      <guid>/posts/2022-03-01-is-privacy-a-right/</guid>
+      <description>In the last few months I began starting to increase my privacy, by limiting what I share with others and what companies can track me. I made a lot of progress, but I still have a lot to learn. This blog post was made as a way to talk about why I decided to add analytics to my website, what I have been using, how much data I collect from you, and how I block ublock from blocking my analytics scripts.</description>
+    </item>
+    
+  </channel>
+</rss>
